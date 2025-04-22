@@ -1,0 +1,3 @@
+Module 1 of the IBM Coursera Getting Started with Git and GitHub course has:
+6 videos, 2 readings, 1 graded assignment
+Graded: Graded Quiz: Git and GitHub Fundamentals
